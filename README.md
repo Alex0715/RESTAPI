@@ -1,6 +1,9 @@
 # RESTAPI
 Rest Apis along with chat websocket
 
+To install the dependecies:
+npm install
+
 To run the code:
 npm run dev
 
